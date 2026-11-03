@@ -1,2 +1,2 @@
 # Vizsgaremek-Halozat
-líighélwegn
+Protokollok és Konfigurálások hozzá adása
