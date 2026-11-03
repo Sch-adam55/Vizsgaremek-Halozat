@@ -1,7 +1,7 @@
 # Vizsgaremek-Halozat
 Protokollok és Konfigurálások hozzá adása
 
-A vizsgaremeknek az alábbi elvárásoknak kell megfelelnie: 
+A vizsgaremeknek az alábbi elvárásoknak kell megfelelnie:<br>
 • a hálózati infrastruktúrának legalább 3 telephelyet vagy irodát kell lefednie 
 • legalább egy telephelyen több VLAN kialakítását foglalja magában 
 • tartalmaz második és harmadik rétegbeli redundáns megoldásokat 
