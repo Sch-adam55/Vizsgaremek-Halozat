@@ -1,14 +1,14 @@
 # Vizsgaremek-Halozat
 Protokollok és Konfigurálások hozzá adása
 
-A vizsgaremeknek az alábbi elvárásoknak kell megfelelnie:<br>
+A vizsgaremeknek az alábbi elvárásoknak kell megfelelnie:
 • a hálózati infrastruktúrának legalább 3 telephelyet vagy irodát kell lefednie 
 • legalább egy telephelyen több VLAN kialakítását foglalja magában 
 • tartalmaz második és harmadik rétegbeli redundáns megoldásokat 
 • IPv4 és IPv6 címzési rendszert egyaránt használ 
 • Vezeték nélküli hálózatot is tartalmaz 
 • statikus és dinamikus forgalomirányítást egyaránt megvalósít 
-• statikus és dinamikus címfordítást alkalmaz 
+• statikus és dinamikus címfordítást alkalmaz
 • WAN-összeköttetéseket is tartalmaz 
 • virtuális magánhálózati kapcsolatot (VPN) is megvalósít 
 • programozott hálózatkonfigurációt is használ 
