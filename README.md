@@ -2,14 +2,14 @@
 Protokollok és Konfigurálások hozzá adása
 
 A vizsgaremeknek az alábbi elvárásoknak kell megfelelnie: <br>
-• a hálózati infrastruktúrának legalább 3 telephelyet vagy irodát kell lefednie <br>
+• a hálózati infrastruktúrának legalább 3 telephelyet vagy irodát kell lefednie ✅ <br>
 • legalább egy telephelyen több VLAN kialakítását foglalja magában <br>
 • tartalmaz második és harmadik rétegbeli redundáns megoldásokat <br>
 • IPv4 és IPv6 címzési rendszert egyaránt használ <br>
-• Vezeték nélküli hálózatot is tartalmaz <br>
+• Vezeték nélküli hálózatot is tartalmaz ✅ <br>
 • statikus és dinamikus forgalomirányítást egyaránt megvalósít <br>
 • statikus és dinamikus címfordítást alkalmaz <br>
-• WAN-összeköttetéseket is tartalmaz <br>
+• WAN-összeköttetéseket is tartalmaz ✅ <br>
 • virtuális magánhálózati kapcsolatot (VPN) is megvalósít <br>
 • programozott hálózatkonfigurációt is használ <br>
 • forgalomirányítón megvalósított biztonsági funkciókat tartalmaz (pl. ACL-ek) <br>
